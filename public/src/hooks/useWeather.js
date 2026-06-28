@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 
-const API_KEY = 'YOUR_API_KEY'; // <-- Paste your API key here!
+const API_KEY = '822c8a1099e3e192080a266b16c573a0'; // <-- Paste your API key here!
 const BASE_URL = 'https://api.openweathermap.org/data/2.5/';
 
 export const useWeather = (city) => {
